@@ -1,7 +1,7 @@
 (function () {
     const template = document.createElement('template') 
     template.innerHTML = `
-        <styte>
+        <style>
         </style>
         <div id="root" style="width: 100%; height: 100%;"> 
         Hello Custom Widget
